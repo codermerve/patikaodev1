@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+section{
+    padding-left: 35%;
+}
+article{
+    padding-left: 33%;
+}
+
+
+.clear {
+    clear:both;
+}
+ footer{
+    height:70px;
+    margin-top:10px;
+  
+
+ }
