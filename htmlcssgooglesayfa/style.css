@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&family=Raleway:ital,wght@1,200&family=Roboto&display=swap');
+*{
+    box-sizing: border-box;
+    
+    margin:0;
+    
+}
+body{
+    width: 100%;
+    overflow-x: auto;
+}
+.baslik>nav>a,.baslik>nav>i{
+    
+    position: relative;
+    left:88%;
+    display: inline-block;
+    margin: 5px;
+    
+}
+.baslik>nav>a{
+    color: black;
+    text-decoration: none;
+}
+.baslik>nav>a:hover{
+    text-decoration:underline black;
+}
+.rsm{
+    position: relative;
+    left: 40%;
+    margin-top: 10%;
+}
+.ara>input{
+    width: 50%;
+    position: relative;
+    left: 23%;
+    height:45px ;
+    border-radius: 50px;
+    border-color:lightgray;
+    border-style: solid;
+    box-shadow: 4px 4px 4px gray;
+    background-color: transparent;
+    
+}
+.ara>#a{
+  position: relative;
+   left:25%;
+
+}
+.ara>#b,.ara>#c{
+    position: relative;
+    left:20%; 
+
+}
+.butons{
+    position: relative;
+    left:38%; 
+    top: 20px;
+     
+}
+.alt1{
+    margin-top: 20%;
+    font-weight: bold;
+    background-color: rgb(235, 232, 232);
+    
+}
+.alt2{
+    background-color:rgb(235, 232, 232);
+}
+.alt2>p>a{
+    display: inline;
+    position: relative;
+    margin-left: 5px;
+    top: 12px;
+    color: black;
+    text-decoration:underline;
+    
+}
+.alt2>.karbon{
+    bottom: 5px;
+    position: relative;
+    left: 40%;
+    color: black;
+
+}
+.g{
+    bottom:20px;
+    position: relative;
+    left:88%; 
+    
+}
+.g>a{
+   color: black;
+    
+}
