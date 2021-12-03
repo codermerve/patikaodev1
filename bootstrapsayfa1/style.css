@@ -1,0 +1,47 @@
+
+    body{
+        background-color:rgb(221, 213, 221) ;
+    }
+    .linkler{
+        
+        background-color: black;
+    }
+    .container>a{
+        color: white;
+
+    }
+    .nav-link{
+        color: white;
+    }
+
+    .jumbotron{
+        margin-top: 15%;
+        text-align: center;
+        background-color:#E9ECEF;
+
+    }
+    ul{
+        list-style-position: inside;
+    }
+    .buton1{
+        
+        margin-left: 5%;
+    }
+    header{
+        text-align: center;
+        margin-top:5px;
+        color: blueviolet;
+    }
+    .body1{
+        background-color: rgb(221, 213, 221) ;
+        
+    }
+    .card-title{
+        color: goldenrod;
+    }
+    .card1{
+       margin-left: 25%;
+         
+    }
+   
+ 
